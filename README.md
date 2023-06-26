@@ -3,7 +3,6 @@
 
 ### churn_bank.csv
 ```
-*  RowNumber: 각 레코드의 고유 식별자일 가능성이 높으며 분석에 직접적으로 기여하지는 않습니다.
 *  CustomerId: 데이터 세트 내에서 개별 고객을 추적하고 차별화하는 데 사용할 수 있습니다.
 *  Surname: 이름
 *  CreditScore: 신용도 평가
