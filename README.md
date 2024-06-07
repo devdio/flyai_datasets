@@ -1,6 +1,6 @@
 # 데이터셋
 
-- [펭귄데이터셋](https://raw.githubusercontent.com/devdio/flyai_datasets/main/penguins.csv)
+- [펭귄 데이터셋](https://raw.githubusercontent.com/devdio/flyai_datasets/main/penguins.csv)
 ```
 https://raw.githubusercontent.com/devdio/flyai_datasets/main/penguins.csv
 ```
@@ -27,4 +27,13 @@ https://raw.githubusercontent.com/devdio/flyai_datasets/main/penguins.csv
 *  IsActiveMember: 활성 회원(1)인지 아닌지(0)
 *  EstimatedSalary: 고객의 소득 수준에 대한 근사치
 *  Exited: 고객이 은행에서 이탈했는지(1) 또는 이탈하지 않았는지(0)
+```
+
+### 라이브러리
+```sh
+# 설치 확인
+pip show imbalanced-learn
+
+# 설치
+pip install imbalanced-learn
 ```
