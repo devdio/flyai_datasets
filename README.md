@@ -11,6 +11,10 @@ https://raw.githubusercontent.com/devdio/flyai_datasets/main/california_housing_
 ```
 https://raw.githubusercontent.com/devdio/flyai_datasets/main/california_housing_test.csv
 ```
+- 비디오게임 판매량
+```
+https://raw.githubusercontent.com/devdio/flyai_datasets/main/vgsalesGlobale.csv
+```
 
 ### matplotlib의 한글화 문제
 - [koreanize-matplotlib](https://github.com/ychoi-kr/koreanize-matplotlib)
