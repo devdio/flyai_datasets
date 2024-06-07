@@ -7,7 +7,6 @@ https://raw.githubusercontent.com/devdio/flyai_datasets/main/penguins.csv
 - 캘리포니어 집값
 ```
 https://raw.githubusercontent.com/devdio/flyai_datasets/main/california_housing_train.csv
-https://raw.githubusercontent.com/devdio/flyai_datasets/main/california_housing_test.csv
 ```
 ```
 https://raw.githubusercontent.com/devdio/flyai_datasets/main/california_housing_test.csv
