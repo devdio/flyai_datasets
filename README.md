@@ -1,3 +1,11 @@
+# 데이터셋
+
+- [펭귄데이터셋](https://raw.githubusercontent.com/devdio/flyai_datasets/main/penguins.csv)
+```
+https://raw.githubusercontent.com/devdio/flyai_datasets/main/penguins.csv
+```
+
+
 ### matplotlib의 한글화 문제
 - [koreanize-matplotlib](https://github.com/ychoi-kr/koreanize-matplotlib)
 
