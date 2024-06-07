@@ -1,4 +1,4 @@
-# 데이터셋
+### 데이터셋
 
 - [펭귄 데이터셋](https://raw.githubusercontent.com/devdio/flyai_datasets/main/penguins.csv)
 ```
@@ -45,7 +45,11 @@ pip show imbalanced-learn
 pip install imbalanced-learn
 ```
 
-### matplotlib의 한글화 문제
+### Matplotlib 한글화
 - [koreanize-matplotlib](https://github.com/ychoi-kr/koreanize-matplotlib)
+```
+https://github.com/ychoi-kr/koreanize-matplotlib
+```  
 
-# 테스트용 데이터셋
+
+##### 끝
