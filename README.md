@@ -1,6 +1,6 @@
 ### 데이터셋
 
-- [펭귄 데이터셋](https://raw.githubusercontent.com/devdio/flyai_datasets/main/penguins.csv)
+- [펭귄 데이터](https://raw.githubusercontent.com/devdio/flyai_datasets/main/penguins.csv)
 ```
 https://raw.githubusercontent.com/devdio/flyai_datasets/main/penguins.csv
 ```
