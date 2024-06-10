@@ -54,5 +54,8 @@ https://raw.githubusercontent.com/devdio/flyai_datasets/main/churn_bank.csv
 https://github.com/ychoi-kr/koreanize-matplotlib
 ```  
 
-
+## VSCode Extension
+- Rainbow CSV by mechatroner
+- Edit CSV by janisdd
+  
 ##### 끝
