@@ -21,7 +21,10 @@ https://raw.githubusercontent.com/devdio/flyai_datasets/main/vgsalesGlobale.csv
 !gdown https://drive.google.com/uc?id=1QhadpOVehfSCkRWydOje1SxhNrXP39Uh -O ./data_jobs.csv
 ```
 
-
+- 컬럼명 테스트용
+```
+https://raw.githubusercontent.com/devdio/flyai_datasets/main/columns_name_test.csv
+```
 
 
 - 은행 고객 데이터
