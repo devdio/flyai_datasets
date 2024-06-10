@@ -4,6 +4,16 @@
 ```
 https://raw.githubusercontent.com/devdio/flyai_datasets/main/penguins.csv
 ```
+- 펭귄 데이터 (허깅페이스)
+```
+참고 : https://huggingface.co/datasets/methodidacte/penguins
+```
+```python
+from datasets import load_dataset
+
+dataset = load_dataset("methodidacte/penguins")
+```
+
 - 캘리포니어 집값
 ```
 https://raw.githubusercontent.com/devdio/flyai_datasets/main/california_housing_train.csv
