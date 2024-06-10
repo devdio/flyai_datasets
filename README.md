@@ -57,5 +57,23 @@ https://github.com/ychoi-kr/koreanize-matplotlib
 ## VSCode Extension
 - Rainbow CSV by mechatroner
 - Edit CSV by janisdd
-  
+
+## Colab 환경 
+2024-06-10
+```
+keras==2.15.0
+matplotlib==3.7.1
+numpy==1.25.2
+opencv-contrib-python==4.8.0.76
+opencv-python==4.8.0.76
+pandas==2.0.3
+scikit-image==0.19.3
+scikit-learn==1.2.2
+seaborn==0.13.1
+tensorboard==2.15.2
+tensorboard-data-server==0.7.2
+tensorflow @ https://storage.googleapis.com/colab-tf-builds-public-09h6ksrfwbb9g9xv/tensorflow-2.15.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=a2ec79931350b378c1ef300ca836b52a55751acb71a433582508a07f0de57c42
+tensorflow-datasets==4.9.5
+tensorflow-hub==0.16.1
+```
 ##### 끝
