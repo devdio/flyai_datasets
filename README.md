@@ -15,11 +15,6 @@ https://raw.githubusercontent.com/devdio/flyai_datasets/main/california_housing_
 ```
 https://raw.githubusercontent.com/devdio/flyai_datasets/main/vgsalesGlobale.csv
 ```
-- 은행 고객 데이터
-```
-https://raw.githubusercontent.com/devdio/flyai_datasets/main/churn_bank.csv
-```
-
 - Data Jobs
 구글드라이버에서 공유
 ```
@@ -27,6 +22,12 @@ https://raw.githubusercontent.com/devdio/flyai_datasets/main/churn_bank.csv
 ```
 
 
+
+
+- 은행 고객 데이터
+```
+https://raw.githubusercontent.com/devdio/flyai_datasets/main/churn_bank.csv
+```
 ```
 *  CustomerId: 데이터 세트 내에서 개별 고객을 추적하고 차별화하는 데 사용할 수 있습니다.
 *  Surname: 이름
