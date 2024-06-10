@@ -45,16 +45,8 @@ https://raw.githubusercontent.com/devdio/flyai_datasets/main/churn_bank.csv
 ```
 
 ### 라이브러리
-```sh
-# 설치 확인
-pip show imbalanced-learn
-
-# 설치
-pip install imbalanced-learn
-```
-
-### Matplotlib 한글화
-- [koreanize-matplotlib](https://github.com/ychoi-kr/koreanize-matplotlib)
+- Matplotlib 한글화
+[koreanize-matplotlib](https://github.com/ychoi-kr/koreanize-matplotlib)
 ```
 https://github.com/ychoi-kr/koreanize-matplotlib
 ```  
