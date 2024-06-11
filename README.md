@@ -29,6 +29,11 @@ https://raw.githubusercontent.com/devdio/flyai_datasets/main/california_housing_
 ```
 https://raw.githubusercontent.com/devdio/flyai_datasets/main/vgsalesGlobale.csv
 ```
+- 구글 플레이스토어 데이터
+```
+https://raw.githubusercontent.com/devdio/flyai_datasets/main/googleplaystore.csv
+```
+
 - Data Jobs
 구글드라이버에서 공유
 ```
