@@ -13,7 +13,11 @@ from datasets import load_dataset
 
 dataset = load_dataset("methodidacte/penguins")
 ```
-
+- 삼성전자 주가
+```
+https://raw.githubusercontent.com/devdio/flyai_datasets/main/samsung.csv
+```
+  
 - 캘리포니어 집값
 ```
 https://raw.githubusercontent.com/devdio/flyai_datasets/main/california_housing_train.csv
