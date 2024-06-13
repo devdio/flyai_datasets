@@ -1,4 +1,4 @@
-species,island,culmen_length_mm,culmen_depth_mm,flipper_length_mm,body_mass_g,sex
+Species,Island,Culmen Length(mm),Culmen Depth(mm),Flipper Length(mm),Body Mass(g),Sex
 Adelie,Torgersen,39.1,18.7,181,3750,MALE
 Adelie,Torgersen,39.5,17.4,186,3800,FEMALE
 Adelie,Torgersen,40.3,18,195,3250,FEMALE
