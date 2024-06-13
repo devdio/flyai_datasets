@@ -3,6 +3,10 @@
 ```
 https://raw.githubusercontent.com/devdio/flyai_datasets/main/citrus.csv
 ```
+-  아이리스
+```
+https://raw.githubusercontent.com/devdio/flyai_datasets/main/iris.csv
+```
 
 - [펭귄 데이터](https://raw.githubusercontent.com/devdio/flyai_datasets/main/penguins.csv)
 ```
