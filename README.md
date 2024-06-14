@@ -8,11 +8,11 @@ https://raw.githubusercontent.com/devdio/flyai_datasets/main/citrus.csv
 https://raw.githubusercontent.com/devdio/flyai_datasets/main/iris.csv
 ```
 
-- 평귄데이터[캐글](https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data)
+- 평귄데이터 [(캐글)](https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data)
 ```
 https://raw.githubusercontent.com/devdio/flyai_datasets/main/penguins.csv
 ```
-- 펭귄 데이터 (허깅페이스)
+- 펭귄 데이터 [(허깅페이스)](https://huggingface.co/datasets/methodidacte/penguins)
 ```
 참고 : https://huggingface.co/datasets/methodidacte/penguins
 ```
