@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/devdio/flyai_datasets/main/iris.csv
 ```
 https://raw.githubusercontent.com/devdio/flyai_datasets/main/penguins.csv
 ```
-- 인디언 당뇨병 데이터
+- 인디언 당뇨병 데이터 [(캐글)](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 ```
 https://raw.githubusercontent.com/devdio/flyai_datasets/main/diabetes.csv
 ```
