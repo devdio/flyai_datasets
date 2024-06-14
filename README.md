@@ -8,15 +8,10 @@ https://raw.githubusercontent.com/devdio/flyai_datasets/main/citrus.csv
 https://raw.githubusercontent.com/devdio/flyai_datasets/main/iris.csv
 ```
 
-- [펭귄 데이터](https://raw.githubusercontent.com/devdio/flyai_datasets/main/penguins.csv)
+- 평귄데이터[캐글](https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data)
 ```
 https://raw.githubusercontent.com/devdio/flyai_datasets/main/penguins.csv
 ```
-- 인디언 당뇨병 데이터 [(캐글)](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
-```
-https://raw.githubusercontent.com/devdio/flyai_datasets/main/diabetes.csv
-```
-
 - 펭귄 데이터 (허깅페이스)
 ```
 참고 : https://huggingface.co/datasets/methodidacte/penguins
@@ -26,6 +21,13 @@ from datasets import load_dataset
 
 dataset = load_dataset("methodidacte/penguins")
 ```
+
+- 인디언 당뇨병 데이터 [(캐글)](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+```
+https://raw.githubusercontent.com/devdio/flyai_datasets/main/diabetes.csv
+```
+
+
 - 삼성전자 주가
 ```
 https://raw.githubusercontent.com/devdio/flyai_datasets/main/samsung.csv
