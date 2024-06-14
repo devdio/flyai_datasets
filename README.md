@@ -12,6 +12,11 @@ https://raw.githubusercontent.com/devdio/flyai_datasets/main/iris.csv
 ```
 https://raw.githubusercontent.com/devdio/flyai_datasets/main/penguins.csv
 ```
+- 인디언 당뇨병 데이터
+```
+https://raw.githubusercontent.com/devdio/flyai_datasets/main/diabetes.csv
+```
+
 - 펭귄 데이터 (허깅페이스)
 ```
 참고 : https://huggingface.co/datasets/methodidacte/penguins
