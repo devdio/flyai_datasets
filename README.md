@@ -25,6 +25,10 @@ from datasets import load_dataset
 
 dataset = load_dataset("methodidacte/penguins")
 ```
+- 와인 품질 데이터 [(UCI Repo)](https://archive.ics.uci.edu/dataset/186/wine+quality), [(Kaggle)](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009?resource=download)
+```
+https://github.com/devdio/flyai_datasets/raw/main/wine+quality.zip
+```
 
 
 - 삼성전자 주가
