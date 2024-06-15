@@ -34,6 +34,11 @@ https://github.com/devdio/flyai_datasets/raw/main/wine+quality.zip
 ```
 https://raw.githubusercontent.com/devdio/flyai_datasets/main/wholesale_customers_data.csv
 ```
+- 밀알 품종 데이터 [(UCI Repo)](https://archive.ics.uci.edu/dataset/236/seeds)
+```
+https://raw.githubusercontent.com/devdio/flyai_datasets/main/seeds_dataset.txt
+```
+
 
 - 삼성전자 주가
 ```
