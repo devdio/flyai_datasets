@@ -30,6 +30,10 @@ dataset = load_dataset("methodidacte/penguins")
 https://github.com/devdio/flyai_datasets/raw/main/wine+quality.zip
 ```
 
+-  유통업체 고객 데이터 [(UCI Repo)](https://archive.ics.uci.edu/dataset/292/wholesale+customers), [(Kaggle)](https://www.kaggle.com/datasets/sahistapatel96/wholesale-customer-datacsv)
+```
+https://raw.githubusercontent.com/devdio/flyai_datasets/main/wholesale_customers_data.csv
+```
 
 - 삼성전자 주가
 ```
