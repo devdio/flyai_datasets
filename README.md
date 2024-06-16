@@ -38,7 +38,10 @@ https://raw.githubusercontent.com/devdio/flyai_datasets/main/wholesale_customers
 ```
 https://raw.githubusercontent.com/devdio/flyai_datasets/main/seeds_dataset.txt
 ```
-
+- 캘리포니아 집값 데이터 [(캐글)](https://www.kaggle.com/datasets/camnugent/california-housing-prices?resource=download)
+```
+https://raw.githubusercontent.com/devdio/flyai_datasets/main/housing.csv
+```
 
 - 삼성전자 주가
 ```
