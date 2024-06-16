@@ -48,13 +48,6 @@ https://raw.githubusercontent.com/devdio/flyai_datasets/main/housing.csv
 https://raw.githubusercontent.com/devdio/flyai_datasets/main/samsung.csv
 ```
   
-- 캘리포니어 집값
-```
-https://raw.githubusercontent.com/devdio/flyai_datasets/main/california_housing_train.csv
-```
-```
-https://raw.githubusercontent.com/devdio/flyai_datasets/main/california_housing_test.csv
-```
 - 비디오게임 판매량
 ```
 https://raw.githubusercontent.com/devdio/flyai_datasets/main/vgsalesGlobale.csv
