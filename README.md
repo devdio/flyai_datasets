@@ -43,6 +43,11 @@ https://raw.githubusercontent.com/devdio/flyai_datasets/main/seeds_dataset.txt
 https://raw.githubusercontent.com/devdio/flyai_datasets/main/housing.csv
 ```
 
+- 중고차 가격
+```
+https://raw.githubusercontent.com/devdio/flyai_datasets/main/auto-mpg.csv
+```
+
 - 삼성전자 주가
 ```
 https://raw.githubusercontent.com/devdio/flyai_datasets/main/samsung.csv
