@@ -43,7 +43,7 @@ https://raw.githubusercontent.com/devdio/flyai_datasets/main/seeds_dataset.txt
 https://raw.githubusercontent.com/devdio/flyai_datasets/main/housing.csv
 ```
 
-- 중고차 가격
+- 자동차 연비 데이터
 ```
 https://raw.githubusercontent.com/devdio/flyai_datasets/main/auto-mpg.csv
 ```
