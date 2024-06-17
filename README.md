@@ -48,6 +48,13 @@ https://raw.githubusercontent.com/devdio/flyai_datasets/main/housing.csv
 https://raw.githubusercontent.com/devdio/flyai_datasets/main/auto-mpg.csv
 ```
 
+- 손글씨 데이터셋 (mnist)
+keras에서 제공하는 데이터
+```
+https://github.com/devdio/flyai_datasets/raw/main/mnist.npz
+``` 
+
+
 - 삼성전자 주가
 ```
 https://raw.githubusercontent.com/devdio/flyai_datasets/main/samsung.csv
