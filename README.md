@@ -62,7 +62,7 @@ https://drive.google.com/uc?id=1dC-Kso5FonYWtbxtJnJ8_dxO_Jlo8weR
 
 - 식물 질병 데이터 [(캐글)](https://www.kaggle.com/datasets/arjuntejaswi/plant-village)
 ```
-https://drive.google.com/uc?id=1eKXjLKp2DiGI6n0nIZelj38ssiLnR6HN
+https://drive.google.com/uc?id=1-MgHBM01grW2O8N-aVO5p5en16Ko-aH5
 ```
 
 - 고양이 바운딩 박스
