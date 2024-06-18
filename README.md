@@ -54,6 +54,12 @@ keras에서 제공하는 데이터
 https://github.com/devdio/flyai_datasets/raw/main/mnist.npz
 ``` 
 
+- 개와고양이 데이터셋 (편집본)
+구글드라이버 공유(gdown)
+```
+https://drive.google.com/uc?id=1Zl5mt-tgrx3LOtk5dfYhYrqfRUVWRKdA
+```
+
 
 - 삼성전자 주가
 ```
