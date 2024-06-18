@@ -60,6 +60,11 @@ https://github.com/devdio/flyai_datasets/raw/main/mnist.npz
 https://drive.google.com/uc?id=1dC-Kso5FonYWtbxtJnJ8_dxO_Jlo8weR
 ```
 
+- 식물 질병 데이터 [(캐글)](https://www.kaggle.com/datasets/arjuntejaswi/plant-village)
+```
+https://drive.google.com/uc?id=1eKXjLKp2DiGI6n0nIZelj38ssiLnR6HN
+```
+
 - 고양이 바운딩 박스
 ```
 https://drive.google.com/uc?id=12st-LKpy5fZ2RCMtC4ZPcVwQl62NCnVt
