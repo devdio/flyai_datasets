@@ -75,6 +75,10 @@ https://drive.google.com/uc?id=13Y7mVAng4nkYlFlFrlTEHcafAflwnQiT
 https://drive.google.com/uc?id=12st-LKpy5fZ2RCMtC4ZPcVwQl62NCnVt
 ```
 
+- Image Localization Dataset  [(캐글)](https://www.kaggle.com/datasets/mbkinaci/image-localization-dataset)
+```
+https://www.kaggle.com/datasets/mbkinaci/image-localization-dataset
+```
 
 - 삼성전자 주가
 ```
