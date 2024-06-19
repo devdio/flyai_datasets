@@ -80,7 +80,13 @@ https://drive.google.com/uc?id=12st-LKpy5fZ2RCMtC4ZPcVwQl62NCnVt
 ```
 https://raw.githubusercontent.com/devdio/flyai_datasets/main/samsung.csv
 ```
-  
+
+- 레이블용 프로그램 LabelImg
+```
+https://github.com/heartexlabs/labelImg/releases
+```
+
+
 - 비디오게임 판매량
 ```
 https://raw.githubusercontent.com/devdio/flyai_datasets/main/vgsalesGlobale.csv
