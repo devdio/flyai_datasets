@@ -106,6 +106,13 @@ https://raw.githubusercontent.com/devdio/flyai_datasets/main/googleplaystore.csv
 !gdown https://drive.google.com/uc?id=1QhadpOVehfSCkRWydOje1SxhNrXP39Uh -O ./data_jobs.csv
 ```
 
+- Netflix 데이터 [(캐글)](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+```
+https://www.kaggle.com/datasets/shivamb/netflix-shows
+
+https://www.kaggle.com/code/edumisvieramartin/netflix-eda-and-ml-models-with-99-percent-accuracy
+```
+
 - Audio Mnist
 ```
 https://github.com/Jakobovski/free-spoken-digit-dataset
