@@ -65,6 +65,11 @@ https://drive.google.com/uc?id=1dC-Kso5FonYWtbxtJnJ8_dxO_Jlo8weR
 https://drive.google.com/uc?id=1-MgHBM01grW2O8N-aVO5p5en16Ko-aH5
 ```
 
+-  세계 불가사의 데이터 셋  [(캐글)](https://www.kaggle.com/datasets/balabaskar/wonders-of-the-world-image-classification)
+```
+https://drive.google.com/uc?id=13Y7mVAng4nkYlFlFrlTEHcafAflwnQiT
+```
+
 - 고양이 바운딩 박스
 ```
 https://drive.google.com/uc?id=12st-LKpy5fZ2RCMtC4ZPcVwQl62NCnVt
