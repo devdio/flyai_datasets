@@ -91,6 +91,10 @@ https://raw.githubusercontent.com/devdio/flyai_datasets/main/samsung.csv
 https://github.com/heartexlabs/labelImg/releases
 ```
 
+- 네이버 리뷰 데이터셋
+```
+git clone http://github.com/e9t/nsmc.git
+```
 
 - 비디오게임 판매량
 ```
