@@ -1,4 +1,8 @@
 # 데이터셋  
+- 다이아몬트 데이터셋
+```
+https://raw.githubusercontent.com/devdio/flyai_datasets/main/diamonds.csv
+```
   
 - 귤과 오렌지 구분
 ```
