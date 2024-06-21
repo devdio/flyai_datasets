@@ -3,7 +3,7 @@
 ```
 https://raw.githubusercontent.com/devdio/flyai_datasets/main/diamonds.csv
 ```
-- NIFTY 50 ESG Risk Ratings [(캐글)](https://www.kaggle.com/datasets/pritish509/nifty-50-esg-risk-ratings)
+- NIFTY 50 ESG Risk Ratings [(kaggle)](https://www.kaggle.com/datasets/pritish509/nifty-50-esg-risk-ratings)
 ```
 https://raw.githubusercontent.com/devdio/flyai_datasets/main/ESG_data_%20NIFTY50_export_final.csv
 ```
