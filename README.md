@@ -3,7 +3,10 @@
 ```
 https://raw.githubusercontent.com/devdio/flyai_datasets/main/diamonds.csv
 ```
-  
+- NIFTY 50 ESG Risk Ratings [(캐글)](https://www.kaggle.com/datasets/pritish509/nifty-50-esg-risk-ratings)
+```
+https://raw.githubusercontent.com/devdio/flyai_datasets/main/ESG_data_%20NIFTY50_export_final.csv
+```
 - 귤과 오렌지 구분
 ```
 https://raw.githubusercontent.com/devdio/flyai_datasets/main/citrus.csv
@@ -142,6 +145,9 @@ https://drive.google.com/uc?id=1Ee3qKH7aUpB3eUQP-nUiJyJECoTzVAU1
   * https://drive.google.com/drive/folders/11wq57w-fi-mEzK4iC1DDS24IXbqe-q6t?usp=sharing
   * https://drive.google.com/uc?id=1dXD4MIzHgJ31xVGfDdBx0cgwZs1_W589  
 ```
+
+
+
 
 ### 라이브러리
 - Matplotlib 한글화
