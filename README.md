@@ -98,6 +98,12 @@ https://raw.githubusercontent.com/devdio/flyai_datasets/main/samsung.csv
 https://github.com/heartexlabs/labelImg/releases
 ```
 
+- 영화 리뷰 데이터셋 (감정분류)
+```
+https://drive.google.com/uc?id=1_LFoolJeek9E1Cug1LSdh6EqxlZrA1eu
+```
+
+
 - 네이버 리뷰 데이터셋
 ```
 git clone http://github.com/e9t/nsmc.git
