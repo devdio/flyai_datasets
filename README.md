@@ -7,6 +7,13 @@ https://raw.githubusercontent.com/devdio/flyai_datasets/main/diamonds.csv
 ```
 https://raw.githubusercontent.com/devdio/flyai_datasets/main/ESG_data_%20NIFTY50_export_final.csv
 ```
+- 타이타닉 훈련용 [(kaggle)](https://www.kaggle.com/competitions/titanic/data?select=train.csv)
+```
+https://raw.githubusercontent.com/devdio/flyai_datasets/main/titanic_train.csv
+```
+
+
+
 - 귤과 오렌지 구분
 ```
 https://raw.githubusercontent.com/devdio/flyai_datasets/main/citrus.csv
