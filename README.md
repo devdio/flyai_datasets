@@ -158,8 +158,10 @@ https://drive.google.com/uc?id=1Ee3qKH7aUpB3eUQP-nUiJyJECoTzVAU1
   * https://drive.google.com/drive/folders/11wq57w-fi-mEzK4iC1DDS24IXbqe-q6t?usp=sharing
   * https://drive.google.com/uc?id=1dXD4MIzHgJ31xVGfDdBx0cgwZs1_W589  
 ```
-
-
+- chatbot 데이터 (구글 드라이버 공유)
+```
+https://drive.google.com/uc?id=1mvOpED3_z-eghoc5SNM3VgvTk5xbZJE5
+```
 
 
 ### 라이브러리
