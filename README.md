@@ -2,6 +2,11 @@
 - labelImg[image annotation tool]([image annotation tool](https://github.com/HumanSignal/labelImg/releases))
 
 # 데이터셋  
+- cifar10 데이터셋
+```
+gdown https://drive.google.com/uc?id=14QMnMDzWqOvAt4b5NA61wbwIyQtRmlmL
+```
+
 - 다이아몬트 데이터셋
 ```
 https://raw.githubusercontent.com/devdio/flyai_datasets/main/diamonds.csv
