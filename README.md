@@ -4,7 +4,7 @@
 # 데이터셋  
 - cifar10 데이터셋
 ```
-gdown https://drive.google.com/uc?id=14QMnMDzWqOvAt4b5NA61wbwIyQtRmlmL
+https://drive.google.com/uc?id=14QMnMDzWqOvAt4b5NA61wbwIyQtRmlmL
 ```
 
 - 다이아몬트 데이터셋
