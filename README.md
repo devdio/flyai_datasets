@@ -2,6 +2,12 @@
 - labelImg[image annotation tool]([image annotation tool](https://github.com/HumanSignal/labelImg/releases))
 
 # 데이터셋  
+- IMDB
+```
+!gdown https://drive.google.com/uc?id=1gaOeP0dIaf9by4cOp2MvpBFS6HAiwjS6
+
+```
+
 - cifar10 데이터셋
 ```
 https://drive.google.com/uc?id=14QMnMDzWqOvAt4b5NA61wbwIyQtRmlmL
