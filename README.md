@@ -2,6 +2,11 @@
 - labelImg[image annotation tool]([image annotation tool](https://github.com/HumanSignal/labelImg/releases))
 
 # 데이터셋  
+- pizza_steak_sushi
+```
+!gdown https://drive.google.com/uc?id=17euZGtUUdXyHeT0rOwPHfae2ciH-zXET
+
+```
 - IMDB
 ```
 !gdown https://drive.google.com/uc?id=1gaOeP0dIaf9by4cOp2MvpBFS6HAiwjS6
