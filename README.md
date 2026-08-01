@@ -10,7 +10,7 @@
 - IMDB
 ```
 !gdown https://drive.google.com/uc?id=1gaOeP0dIaf9by4cOp2MvpBFS6HAiwjS6
-
+!gdown https://drive.google.com/uc?id=1gaOeP0dIaf9by4cOp2MvpBFS6HAiwjS6 -O IMDB.zip
 ```
 
 - cifar10 데이터셋
